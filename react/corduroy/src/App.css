@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+  font-size: 18px;
+  font-family: "Calisto MT", sans-serif;
+
+}
+/*.LoginImage {*/
+/*  display:flex;*/
+/*  text-align: center;*/
+/*  justify-content:center;*/
+/*  align-items: center;*/
+/*}*/
+@media all and (min-width: 480px) {
+  .LoginPage {
+    padding: 60px 0;
+  }
+
+  .LoginPage form {
+    margin: 0 auto;
+    width: 320px;
+  }
+
+  .LoginPage Button {
+    font-size: 24px;
+    font-family: "Calisto MT", sans-serif;
+  }
+
+  .error-message {
+    font-size: 14px;
+    font-family: "Calisto MT", sans-serif;
+    color: red;
+  }
+
+  .LoginTitle {
+    text-align: center;
+    font-family: "Calisto MT Bold", sans-serif;
+
+  }
+}
+
+.LoginPage {
+   font-size: 16px;
+   font-family: "Calisto MT", sans-serif;
+ }
+
+.Body {
+  position:absolute;
+  top: 100px;
+}
+.App-logo {
+  height: 40vmin;
+}
+
+.AppHeader {
+  position:absolute;
+  top: 0;
+  width: 100%;
+  /*background-color: white;*/
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  font-size: 22px;
+  color: black;
+}
+
+.dropDownUser{
+  min-width: 160px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Title {
+  font-family: "Calisto MT", sans-serif;
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.navSelect {
+display:flex;
+  text-align: center;
+  justify-content:center;
+  align-items: center;
+}
+
+.navSelect Button {
+  min-width:200px;
+  border-color: #00008b;
+  border-width: 1.5px;
+}
+
+.statTitle {
+  text-align: center;
+}
+
+.barButton {
+  font-size:30px;
+}
+.Pickers {
+  /*min-width:400px;*/
+}

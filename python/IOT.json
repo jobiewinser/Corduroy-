@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iot-cardiff",
+  "private_key_id": "8989b6fbe5bc6937c0efbebd8a547561382890ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDY0O/5cVC0qv0E\nMZxyOXA95HSC72eA81FAUyXYOvPWedg82/IvBkQd8By0FSknkdzbaBstaadjw604\n1AmZlfnS9gukySQuUQuprCSWHxLmfKbtU/EQOd6fVD6+SQXSzOkCJsXQzknA0Paq\nBl88IBHhsKYmsBW3BPAOSVGieVohVvz7AhsV+TnnaSSWOYrr/X5OrYUudjA82758\nsm2/2g1avw8hoVyYg/0D/czaxBDhrf/sityIrbLkOHjy5v740lW7Ttz30PjUzacA\nJL1A7x/w/+TbyIaxIAr1CUIjvQVOwL0VjCl7Y6SoC4xefycwQwz5StKS80CblKeU\nJVaYvSdLAgMBAAECggEADyQYKL1HEOGCpdD+ceOc+QAukBjpNidyccwyBQr+OD4Y\ntwyiZFz1qM7kfOxKtsldjlzozkpl4XZVbyCE7cV8GsVf7slfzh7kHPHj5C/rVqPh\n1wpY9/RynYHOl+SVlDEHHJqvOckOJs7w9X1YbTnNcItbhFwg8r+qMUqMJDfWmXlO\nwtM1lzQmyIwA7uhEXw11qf+jP8tLW3BQlwCLciVZNq/7iybz5s1JnDVy6fbSkQ6Y\njFK6s1fF8Ss8/+YHy42MkebFFTWjY1Te/OnduKLwUKzLKDk060whnnbVeJi4AvB6\nQiK67EX0bzCbbFPptd+5iKmJhdRNW3uTCkX9haU3IQKBgQDs+Es4BfFCmQ0Hd60J\nIff27agZ+Oc5/oysnnLY4w+RG4CeRGBzZR+q0mIEbhP7B6USpSgQ1GZ+tYWtnBsc\nUP1EzTjMFh6SeMu1asUR9NbVIJKk1QxLJVLwLZwjLUBq6XBIwZRFGI7iPCjsKubA\n0s7qole4/7nliaUKG8T5xssQ2QKBgQDqOlD8XB5Nx/662E0BEBAUSw8LZ3XNCJdp\ndvbqEfXQyGgLVUOmF2ULOHw/MNBZbdO8OkND40ZsZrergP0zYDJJKF79FNtGMqzU\nIs52F70/+/Ub8lqw6KIhwZ7x34FOFL09GoXV5gH0ENaCZC9QE8L/5hXrQiB0Lb1u\nFRamhtaiwwKBgH/RthDz85yunX6HqQgiEHRa4K+RuHdpvEtn9B7U6xKkOQ4lZ7kW\ntKwZatFk5tYi24FhIGljiB2UoBRy/ZSaguJXp+k9jSQIkCi8/Kug2zh+p1rNqCHo\ncgInN+8pe3OvkudLs0RJ6NhTBufMhEdB7mZVRuf82DLdue3n6Kmp9uKRAoGBANy7\nglCge0pvvCXW65Kh0ZVeOtpTcNd9TjtsijqCHHbaNfrgKnVevLF7VNO0K9TrREux\nWGykxVwo3NQ6JeOBt0HsUsAMJKyd2vO7rXfq3UVsK0xf84meYhSPxDtKly+/Kato\n0FGIhbS9HXoZ8eB0DyNbcLKZSb5S0J7qLsNWdPVDAoGAVmymSjauuomrNimkgY67\nkoaC5vyIH4jDwetVOYyZl1HG4PHLqxlrLIxKcM0ZWKwNpoGS4OJuVZuJaAJWB+xI\nlL+Uqg2S8g/MAxFuwRGlMj78NjODthP5c0jGJk9DusQm3xwkSfn/CR9uXfeJy/SN\nXLtOwCe5IOVJqmBfPX3lyig=\n-----END PRIVATE KEY-----\n",
+  "client_email": "the-real-cooper@iot-cardiff.iam.gserviceaccount.com",
+  "client_id": "110415455276954746537",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/the-real-cooper%40iot-cardiff.iam.gserviceaccount.com"
+}
